@@ -19,6 +19,6 @@ export default {
 	githublink:'https://github.com/vthonte/',
 	whatsapplink:'#',
 	sitelink:'http://vishwesh.thonte.tk',
-	linkedinlink:'www.linkedin.com/in/vthonte',
+	linkedinlink:'http://linkedin.com/in/vthonte',
 	twitterlink:'#',
 }
