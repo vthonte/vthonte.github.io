@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/vthonte.github.io/static/css/main.0d5bd4a1.chunk.css",
+    "main.js": "/vthonte.github.io/static/js/main.217cf737.chunk.js",
+    "main.js.map": "/vthonte.github.io/static/js/main.217cf737.chunk.js.map",
+    "runtime-main.js": "/vthonte.github.io/static/js/runtime-main.63a808fb.js",
+    "runtime-main.js.map": "/vthonte.github.io/static/js/runtime-main.63a808fb.js.map",
+    "static/js/2.72828d6e.chunk.js": "/vthonte.github.io/static/js/2.72828d6e.chunk.js",
+    "static/js/2.72828d6e.chunk.js.map": "/vthonte.github.io/static/js/2.72828d6e.chunk.js.map",
+    "index.html": "/vthonte.github.io/index.html",
+    "precache-manifest.5d634fa1cf113af186d9eab3e8202f59.js": "/vthonte.github.io/precache-manifest.5d634fa1cf113af186d9eab3e8202f59.js",
+    "service-worker.js": "/vthonte.github.io/service-worker.js",
+    "static/css/main.0d5bd4a1.chunk.css.map": "/vthonte.github.io/static/css/main.0d5bd4a1.chunk.css.map",
+    "static/js/2.72828d6e.chunk.js.LICENSE.txt": "/vthonte.github.io/static/js/2.72828d6e.chunk.js.LICENSE.txt",
+    "static/media/facebook.svg": "/vthonte.github.io/static/media/facebook.aef7327c.svg",
+    "static/media/github.svg": "/vthonte.github.io/static/media/github.874f9890.svg",
+    "static/media/instagram.svg": "/vthonte.github.io/static/media/instagram.bb982d13.svg",
+    "static/media/linkedin-in.svg": "/vthonte.github.io/static/media/linkedin-in.67fdfcdc.svg",
+    "static/media/react.svg": "/vthonte.github.io/static/media/react.05767691.svg",
+    "static/media/twitter.svg": "/vthonte.github.io/static/media/twitter.5d0a2e9c.svg",
+    "static/media/whatsapp.svg": "/vthonte.github.io/static/media/whatsapp.f327023d.svg",
+    "static/media/youtube.svg": "/vthonte.github.io/static/media/youtube.285e53e0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63a808fb.js",
+    "static/js/2.72828d6e.chunk.js",
+    "static/css/main.0d5bd4a1.chunk.css",
+    "static/js/main.217cf737.chunk.js"
+  ]
+}
