@@ -14,11 +14,13 @@ export default {
   opt2Color: '#FF8300',
   
 	fblink:'#',
-	instalink:'#',
+	instalink:'https://www.instagram.com/vishwesh.thonte/',
 	youtubelink:'#',
 	githublink:'https://github.com/vthonte/',
 	whatsapplink:'#',
 	sitelink:'http://vishwesh.thonte.tk',
 	linkedinlink:'http://linkedin.com/in/vthonte',
 	twitterlink:'#',
+	p1link:'https://boilerplate-project-urlshortener.vthonte.repl.co/',
+	p2link:'https://boilerplate-project-timestamp.vthonte.repl.co/',
 }

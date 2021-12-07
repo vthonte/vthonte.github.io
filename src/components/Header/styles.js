@@ -3,7 +3,6 @@ import styled from 'styled-components';
 export const Container = styled.div`
   align-items: center;
   display: grid;
-  grid-template-rows: 3fr 1fr 1fr;
   justify-content: center;
   text-align: center;
   width: 100%;

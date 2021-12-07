@@ -2,9 +2,11 @@ import React from 'react';
 import { Container } from './styles';
 import Button from '../Button';
 import variables from '../../variables';
-import Header from '../Header';
-import Card from 'react-bootstrap/Card';
+//import Header from '../Header';
+import {Card} from 'react-bootstrap';
 import './neostyle.css';
+import ProfileCard from '../ProfileCard';
+
 
 
 
@@ -21,18 +23,29 @@ const profilepic = require('../../images/profile.jpeg');
 
 export default function LinkTree() {
   return (
-    <Container>
-    	<Card>
-      <Header picture={profilepic} title='Vishwesh Thonte' subtitle='A Software Engineer' />
-      <Button link={variables.fblink} icon={facebookLogo} name='Facebook' backgroundColor={variables.facebookColor} />
-      <Button link={variables.instalink} icon={instagramLogo} name='Instagram' backgroundColor={variables.instagramColor} />
-      <Button link={variables.youtubelink} icon={youtubeLogo} name='Youtube' backgroundColor={variables.youtubeColor} />
-      <Button link={variables.githublink} icon={githubLogo} name='Github' backgroundColor={variables.githubColor} />
-      <Button link={variables.whatsapplink} icon={whatsappLogo} name='Whatsapp' backgroundColor={variables.whatsappColor} />
+
+	<div>
+
+	<Container>
+	<Card>
+	<Card>
+         {/* <Header picture={profilepic} title='Vishwesh Thonte' subtitle='A Software Engineer' />*/}
+          	<ProfileCard/>
       <Button link={variables.sitelink} icon={reactLogo} name='Site Oficial' backgroundColor={variables.opt2Color} />
+      {/*<Button link={variables.fblink} icon={facebookLogo} name='Facebook' backgroundColor={variables.facebookColor} />*/}
+      <Button link={variables.p1link} icon={githubLogo} name='Url Shortner - Backend Project' backgroundColor={variables.instagramColor} />
+      {/*<Button link={variables.youtubelink} icon={youtubeLogo} name='Youtube' backgroundColor={variables.youtubeColor} />*/}
+      <Button link={variables.p2link} icon={githubLogo} name='Time Microservice - Backend Project' backgroundColor={variables.githubColor} />
+      {/*<Button link={variables.whatsapplink} icon={whatsappLogo} name='Whatsapp' backgroundColor={variables.whatsappColor} />*/}
+
       <Button link={variables.linkedinlink} icon={linkedinLogo} name='LinkedIn' backgroundColor={variables.linkedinColor} />
-      <Button link={variables.twitterlink} icon={twitterLogo} name='Twitter' backgroundColor={variables.twitterColor} />
+      {/*<Button link={variables.twitterlink} icon={twitterLogo} name='Twitter' backgroundColor={variables.twitterColor} />*/}
       </Card>
-    </Container>
+      </Card>
+	</Container>
+	
+	</div>
+
+
   )
 }

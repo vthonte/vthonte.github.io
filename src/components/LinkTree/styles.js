@@ -1,7 +1,15 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-  margin: 30px auto;
-  max-width: 320px;
-  width: 80%;
+
+  --max-width: 400px;
+  border: 1px solid pink;
+  padding:20px;
+  --background-color:grey;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  --background-color: #bacad9;
 `;
