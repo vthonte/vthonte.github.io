@@ -23,4 +23,5 @@ export default {
 	twitterlink:'#',
 	p1link:'https://boilerplate-project-urlshortener.vthonte.repl.co/',
 	p2link:'https://boilerplate-project-timestamp.vthonte.repl.co/',
+	p3link: 'https://testnet.fraktal.io/',
 }

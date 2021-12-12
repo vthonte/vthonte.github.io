@@ -38,7 +38,7 @@ export default function LinkTree() {
       <Button link={variables.p2link} icon={githubLogo} name='Time Microservice - Backend Project' backgroundColor={variables.githubColor} />
       {/*<Button link={variables.whatsapplink} icon={whatsappLogo} name='Whatsapp' backgroundColor={variables.whatsappColor} />*/}
 
-      <Button link={variables.linkedinlink} icon={linkedinLogo} name='LinkedIn' backgroundColor={variables.linkedinColor} />
+      <Button link={variables.p3link} icon={reactLogo} name='Web3.0 NFT Marketplace - Open Source Contribution' backgroundColor={variables.linkedinColor} />
       {/*<Button link={variables.twitterlink} icon={twitterLogo} name='Twitter' backgroundColor={variables.twitterColor} />*/}
       </Card>
       </Card>
