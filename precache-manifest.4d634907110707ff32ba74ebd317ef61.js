@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba57b89a3db1d9b5a2965efd35ca64ef",
+    "revision": "fa80f324a594c43463aeaa0959ac3507",
     "url": "/vthonte.github.io/index.html"
   },
   {
-    "revision": "b66d3e9d12965b2b3bf8",
-    "url": "/vthonte.github.io/static/css/main.f4aec512.chunk.css"
+    "revision": "2f88d33d951bf1a5aadd",
+    "url": "/vthonte.github.io/static/css/main.86a8bfdb.chunk.css"
   },
   {
     "revision": "fc59979e455f6062e7e6",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vthonte.github.io/static/js/2.5cd961f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b66d3e9d12965b2b3bf8",
+    "revision": "2f88d33d951bf1a5aadd",
     "url": "/vthonte.github.io/static/js/main.6a1628ec.chunk.js"
   },
   {
