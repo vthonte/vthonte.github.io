@@ -1,5 +1,5 @@
 export default {
-  textColor: '#fff',
+  textColor: '#000',
   //facebookColor: '#4267B2',
   facebookColor: '#86abf6',
   facebookBorder: '#4267B2',
@@ -24,4 +24,5 @@ export default {
 	p1link:'https://boilerplate-project-urlshortener.vthonte.repl.co/',
 	p2link:'https://boilerplate-project-timestamp.vthonte.repl.co/',
 	p3link: 'https://testnet.fraktal.io/',
+	p4link: 'https://boilerplate-project-exercisetracker-final.vthonte.repl.co/',
 }

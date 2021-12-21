@@ -2,13 +2,14 @@ import React from 'react';
 import './styles.css';
 import variables from '../../variables';
 //import LinkTree from '../LinkTree';
+import '../../neostyle.css';
 
 
 const profilepic = require('../../images/profile.jpeg');
 
 export default function ProfileCard({ icon, name, backgroundColor, link }) {
   return (
-  <div>
+  <div class="neo_card_container">
       <link rel="stylesheet" href="style.css" />
     <link
       rel="stylesheet"
@@ -24,10 +25,13 @@ export default function ProfileCard({ icon, name, backgroundColor, link }) {
             <img
               src={profilepic}
               alt="user-image"
+              className="neo_glass2"
             />
           </div>
+          <div className="neo_glass2 neo_padding">
           <div class="profile-name"><h1>Vishwesh Thonte</h1></div>
           <div class="profile-role">Software Developer</div>
+          </div>
         </div>
 
         <div class="card-footer">

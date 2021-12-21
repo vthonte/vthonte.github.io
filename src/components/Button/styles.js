@@ -3,18 +3,23 @@ import variables from '../../variables';
 import { lighten } from 'polished';
 
 export const Container = styled.a`
-  align-items: center;
-  background: ${ (props) => props.backgroundColor ? props.backgroundColor : variables.opt1Color};
+  align-items: right;
   border-radius: 3px;
   display: flex;
   flex-flow: row;
-  justify-content: center;
+  //justify-content: space-between;
   margin: 10px auto;
   text-decoration: none;
   width: 100%;
+  padding-right:20px;
+  padding-left:20px;
+  //background-image: linear-gradient(to bottom,rgba(255,255,255,0.5),rgba(255,255,255,0));
+  //box-shadow:  5px 5px 5px #000000;
+   //border-radius: 100px 100px 100px 0px;
+  //background-image: linear-gradient(to right,rgba(255,255,255,0),rgba(255,255,255,0));
   
   &:hover {
-    background: ${ (props) => lighten('0.1', props.backgroundColor)};
+
     cursor: pointer;
   }
 }
@@ -28,7 +33,10 @@ export const Icon = styled.img`
 
 export const Name = styled.p`
   color: ${variables.textColor};
-  padding: 20px 0;
+  --padding: 20px 0;
+  padding:auto;
   align-items: center;
   text-align: center;
+  --width:50%;
+
 `;

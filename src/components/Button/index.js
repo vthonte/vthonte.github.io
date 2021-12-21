@@ -1,11 +1,12 @@
 import React from 'react';
 import { Container, Icon, Name } from './styles';
+import '../../neostyle.css';
 
-export default function Button({ icon, name, backgroundColor, link }) {
+export default function Button({ icon, name, link }) {
   return (
-    <Container backgroundColor={backgroundColor} href={link} target='_blank'>
-      <Icon src={icon} />
-      <Name>{name}</Name>
+    <Container href={link} target='_blank'>
+      {/*<Icon src={icon} />*/}
+      <Name className="neo_glass2">{name}</Name>
     </Container>
   );
 }
