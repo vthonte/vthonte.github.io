@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/vthonte.github.io/static/css/main.b769ec61.chunk.css",
-    "main.js": "/vthonte.github.io/static/js/main.ee42fc29.chunk.js",
-    "main.js.map": "/vthonte.github.io/static/js/main.ee42fc29.chunk.js.map",
+    "main.css": "/vthonte.github.io/static/css/main.f4aec512.chunk.css",
+    "main.js": "/vthonte.github.io/static/js/main.6a1628ec.chunk.js",
+    "main.js.map": "/vthonte.github.io/static/js/main.6a1628ec.chunk.js.map",
     "runtime-main.js": "/vthonte.github.io/static/js/runtime-main.63a808fb.js",
     "runtime-main.js.map": "/vthonte.github.io/static/js/runtime-main.63a808fb.js.map",
-    "static/js/2.c5bdb8d9.chunk.js": "/vthonte.github.io/static/js/2.c5bdb8d9.chunk.js",
-    "static/js/2.c5bdb8d9.chunk.js.map": "/vthonte.github.io/static/js/2.c5bdb8d9.chunk.js.map",
+    "static/js/2.5cd961f4.chunk.js": "/vthonte.github.io/static/js/2.5cd961f4.chunk.js",
+    "static/js/2.5cd961f4.chunk.js.map": "/vthonte.github.io/static/js/2.5cd961f4.chunk.js.map",
     "index.html": "/vthonte.github.io/index.html",
-    "precache-manifest.2c3fb4799fd2308f4d7d49d54065cda8.js": "/vthonte.github.io/precache-manifest.2c3fb4799fd2308f4d7d49d54065cda8.js",
+    "precache-manifest.d3fb79148543157b8345f10a1e50b3c0.js": "/vthonte.github.io/precache-manifest.d3fb79148543157b8345f10a1e50b3c0.js",
     "service-worker.js": "/vthonte.github.io/service-worker.js",
-    "static/css/main.b769ec61.chunk.css.map": "/vthonte.github.io/static/css/main.b769ec61.chunk.css.map",
-    "static/js/2.c5bdb8d9.chunk.js.LICENSE.txt": "/vthonte.github.io/static/js/2.c5bdb8d9.chunk.js.LICENSE.txt",
+    "static/css/main.f4aec512.chunk.css.map": "/vthonte.github.io/static/css/main.f4aec512.chunk.css.map",
+    "static/js/2.5cd961f4.chunk.js.LICENSE.txt": "/vthonte.github.io/static/js/2.5cd961f4.chunk.js.LICENSE.txt",
+    "static/media/back.jpg": "/vthonte.github.io/static/media/back.566800df.jpg",
+    "static/media/back1.jpg": "/vthonte.github.io/static/media/back1.81129364.jpg",
     "static/media/facebook.svg": "/vthonte.github.io/static/media/facebook.aef7327c.svg",
     "static/media/github.svg": "/vthonte.github.io/static/media/github.874f9890.svg",
     "static/media/instagram.svg": "/vthonte.github.io/static/media/instagram.bb982d13.svg",
@@ -23,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.63a808fb.js",
-    "static/js/2.c5bdb8d9.chunk.js",
-    "static/css/main.b769ec61.chunk.css",
-    "static/js/main.ee42fc29.chunk.js"
+    "static/js/2.5cd961f4.chunk.js",
+    "static/css/main.f4aec512.chunk.css",
+    "static/js/main.6a1628ec.chunk.js"
   ]
 }
