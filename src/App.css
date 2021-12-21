@@ -24,7 +24,9 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
+background-color:grey;
 background-image:url("./images/back1.jpg");
+background-size: cover;
 	line-height: 1;
 }
 ol, ul {

@@ -38,12 +38,12 @@ export default function LinkTree() {
   return (
 
 
-	<Container style={sectionStyle}>
+	<Container className="neo_back" style={sectionStyle}>
 
 	<div className="neo_glass neo_padding" >
 	<ProfileCard/>
 		<a className="neo_glass2">Projects</a>
-	<div className="neo_glass2 neo_padding"  style={overflowstyle}>
+	<div className="neo_padding">
 
 
 	         {/* <Header picture={profilepic} title='Vishwesh Thonte' subtitle='A Software Engineer' />*/}

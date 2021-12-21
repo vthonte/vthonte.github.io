@@ -30,7 +30,18 @@ Button{
 }
 
 .neo_back{
-background-color:white;
+  align-items: center;
+  justify-content: center;
+  box-shadow:  10px 10px 50px #000000;
+  --box-shadow:  10px 10px 10px #000000 outset;
+  --box-shadow: 10px 10px black;
+  --background-color: #bacad9;
+  filter: blur(0.1px);
+  --border-radius:60px 60px 180px 20px;
+  background-image: linear-gradient(to bottom,rgba(255,255,255,0),rgba(255,255,255,0));
+  --border: 1px solid black;
+	min-height: 20px;
+	--padding:20px;
 }
 
 .neo_glass{
@@ -41,7 +52,7 @@ background-color:white;
   --box-shadow: 10px 10px black;
   --background-color: #bacad9;
   filter: blur(0.1px);
-  border-radius:270px 60px 180px 20px;
+  border-radius:60px 60px 180px 20px;
   background-image: linear-gradient(to bottom,rgba(255,255,255,0),rgba(255,255,255,0));
   --border: 1px solid black;
 	min-height: 20px;
