@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vthonte.github.io/static/css/main.a71353c7.chunk.css",
+    "main.css": "/vthonte.github.io/static/css/main.6cfbf7c7.chunk.css",
     "main.js": "/vthonte.github.io/static/js/main.b140a9d4.chunk.js",
     "main.js.map": "/vthonte.github.io/static/js/main.b140a9d4.chunk.js.map",
     "runtime-main.js": "/vthonte.github.io/static/js/runtime-main.63a808fb.js",
@@ -8,9 +8,9 @@
     "static/js/2.5cd961f4.chunk.js": "/vthonte.github.io/static/js/2.5cd961f4.chunk.js",
     "static/js/2.5cd961f4.chunk.js.map": "/vthonte.github.io/static/js/2.5cd961f4.chunk.js.map",
     "index.html": "/vthonte.github.io/index.html",
-    "precache-manifest.2093435c1edc57a42f065d0edd2b0b4c.js": "/vthonte.github.io/precache-manifest.2093435c1edc57a42f065d0edd2b0b4c.js",
+    "precache-manifest.f32ac2083d7c27c1b403f638ba98df9d.js": "/vthonte.github.io/precache-manifest.f32ac2083d7c27c1b403f638ba98df9d.js",
     "service-worker.js": "/vthonte.github.io/service-worker.js",
-    "static/css/main.a71353c7.chunk.css.map": "/vthonte.github.io/static/css/main.a71353c7.chunk.css.map",
+    "static/css/main.6cfbf7c7.chunk.css.map": "/vthonte.github.io/static/css/main.6cfbf7c7.chunk.css.map",
     "static/js/2.5cd961f4.chunk.js.LICENSE.txt": "/vthonte.github.io/static/js/2.5cd961f4.chunk.js.LICENSE.txt",
     "static/media/back.jpg": "/vthonte.github.io/static/media/back.566800df.jpg",
     "static/media/back1.jpg": "/vthonte.github.io/static/media/back1.81129364.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.63a808fb.js",
     "static/js/2.5cd961f4.chunk.js",
-    "static/css/main.a71353c7.chunk.css",
+    "static/css/main.6cfbf7c7.chunk.css",
     "static/js/main.b140a9d4.chunk.js"
   ]
 }
