@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vthonte.github.io/precache-manifest.2b1fed90a8132e96f105614756627d1a.js"
+  "/vthonte.github.io/precache-manifest.575de0377e23c4b733564bbf76548b7c.js"
 );
 
 self.addEventListener('message', (event) => {
