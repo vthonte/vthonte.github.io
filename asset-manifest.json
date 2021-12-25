@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/vthonte.github.io/static/css/main.4fc49326.css",
-    "main.js": "/vthonte.github.io/static/js/main.04993e04.js",
-    "static/media/react.svg": "/vthonte.github.io/static/media/react.d3407a74cacc3782fdfcb987c101f255.svg",
-    "static/media/github.svg": "/vthonte.github.io/static/media/github.aac8196f1acffed86d928b6886af3a81.svg",
-    "static/media/instagram.svg": "/vthonte.github.io/static/media/instagram.b7d3370ea0773d86ede62940d4cd8591.svg",
-    "static/media/whatsapp.svg": "/vthonte.github.io/static/media/whatsapp.641ba69175bbdaf9b67fc78abb6008b7.svg",
-    "static/media/twitter.svg": "/vthonte.github.io/static/media/twitter.87bd75e7104b2a2070d8a2125d5847fd.svg",
-    "index.html": "/vthonte.github.io/index.html",
-    "static/media/youtube.svg": "/vthonte.github.io/static/media/youtube.ba58bff90c022a0f1a4eef8c0a5b5ef2.svg",
-    "static/media/linkedin-in.svg": "/vthonte.github.io/static/media/linkedin-in.531bd9716aa4b8b7274fe0b4251b5c06.svg",
-    "static/media/facebook.svg": "/vthonte.github.io/static/media/facebook.080e5d2dcd539b73b0bf4556e6e04428.svg",
-    "main.4fc49326.css.map": "/vthonte.github.io/static/css/main.4fc49326.css.map",
-    "main.04993e04.js.map": "/vthonte.github.io/static/js/main.04993e04.js.map"
+    "main.css": "/static/css/main.4fc49326.css",
+    "main.js": "/static/js/main.3408f041.js",
+    "static/media/react.svg": "/static/media/react.d3407a74cacc3782fdfcb987c101f255.svg",
+    "static/media/github.svg": "/static/media/github.aac8196f1acffed86d928b6886af3a81.svg",
+    "static/media/instagram.svg": "/static/media/instagram.b7d3370ea0773d86ede62940d4cd8591.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.641ba69175bbdaf9b67fc78abb6008b7.svg",
+    "static/media/twitter.svg": "/static/media/twitter.87bd75e7104b2a2070d8a2125d5847fd.svg",
+    "index.html": "/index.html",
+    "static/media/youtube.svg": "/static/media/youtube.ba58bff90c022a0f1a4eef8c0a5b5ef2.svg",
+    "static/media/linkedin-in.svg": "/static/media/linkedin-in.531bd9716aa4b8b7274fe0b4251b5c06.svg",
+    "static/media/facebook.svg": "/static/media/facebook.080e5d2dcd539b73b0bf4556e6e04428.svg",
+    "main.4fc49326.css.map": "/static/css/main.4fc49326.css.map",
+    "main.3408f041.js.map": "/static/js/main.3408f041.js.map"
   },
   "entrypoints": [
     "static/css/main.4fc49326.css",
-    "static/js/main.04993e04.js"
+    "static/js/main.3408f041.js"
   ]
 }
