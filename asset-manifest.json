@@ -1,32 +1,21 @@
 {
   "files": {
-    "main.css": "/vthonte.github.io/static/css/main.aac86d1a.chunk.css",
-    "main.js": "/vthonte.github.io/static/js/main.e111e7dd.chunk.js",
-    "main.js.map": "/vthonte.github.io/static/js/main.e111e7dd.chunk.js.map",
-    "runtime-main.js": "/vthonte.github.io/static/js/runtime-main.63a808fb.js",
-    "runtime-main.js.map": "/vthonte.github.io/static/js/runtime-main.63a808fb.js.map",
-    "static/js/2.5cd961f4.chunk.js": "/vthonte.github.io/static/js/2.5cd961f4.chunk.js",
-    "static/js/2.5cd961f4.chunk.js.map": "/vthonte.github.io/static/js/2.5cd961f4.chunk.js.map",
+    "main.css": "/vthonte.github.io/static/css/main.4fc49326.css",
+    "main.js": "/vthonte.github.io/static/js/main.04993e04.js",
+    "static/media/react.svg": "/vthonte.github.io/static/media/react.d3407a74cacc3782fdfcb987c101f255.svg",
+    "static/media/github.svg": "/vthonte.github.io/static/media/github.aac8196f1acffed86d928b6886af3a81.svg",
+    "static/media/instagram.svg": "/vthonte.github.io/static/media/instagram.b7d3370ea0773d86ede62940d4cd8591.svg",
+    "static/media/whatsapp.svg": "/vthonte.github.io/static/media/whatsapp.641ba69175bbdaf9b67fc78abb6008b7.svg",
+    "static/media/twitter.svg": "/vthonte.github.io/static/media/twitter.87bd75e7104b2a2070d8a2125d5847fd.svg",
     "index.html": "/vthonte.github.io/index.html",
-    "precache-manifest.d389333029167a5e2e559815fa845bf8.js": "/vthonte.github.io/precache-manifest.d389333029167a5e2e559815fa845bf8.js",
-    "service-worker.js": "/vthonte.github.io/service-worker.js",
-    "static/css/main.aac86d1a.chunk.css.map": "/vthonte.github.io/static/css/main.aac86d1a.chunk.css.map",
-    "static/js/2.5cd961f4.chunk.js.LICENSE.txt": "/vthonte.github.io/static/js/2.5cd961f4.chunk.js.LICENSE.txt",
-    "static/media/back.jpg": "/vthonte.github.io/static/media/back.566800df.jpg",
-    "static/media/back1.jpg": "/vthonte.github.io/static/media/back1.81129364.jpg",
-    "static/media/facebook.svg": "/vthonte.github.io/static/media/facebook.aef7327c.svg",
-    "static/media/github.svg": "/vthonte.github.io/static/media/github.874f9890.svg",
-    "static/media/instagram.svg": "/vthonte.github.io/static/media/instagram.bb982d13.svg",
-    "static/media/linkedin-in.svg": "/vthonte.github.io/static/media/linkedin-in.67fdfcdc.svg",
-    "static/media/react.svg": "/vthonte.github.io/static/media/react.05767691.svg",
-    "static/media/twitter.svg": "/vthonte.github.io/static/media/twitter.5d0a2e9c.svg",
-    "static/media/whatsapp.svg": "/vthonte.github.io/static/media/whatsapp.f327023d.svg",
-    "static/media/youtube.svg": "/vthonte.github.io/static/media/youtube.285e53e0.svg"
+    "static/media/youtube.svg": "/vthonte.github.io/static/media/youtube.ba58bff90c022a0f1a4eef8c0a5b5ef2.svg",
+    "static/media/linkedin-in.svg": "/vthonte.github.io/static/media/linkedin-in.531bd9716aa4b8b7274fe0b4251b5c06.svg",
+    "static/media/facebook.svg": "/vthonte.github.io/static/media/facebook.080e5d2dcd539b73b0bf4556e6e04428.svg",
+    "main.4fc49326.css.map": "/vthonte.github.io/static/css/main.4fc49326.css.map",
+    "main.04993e04.js.map": "/vthonte.github.io/static/js/main.04993e04.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.63a808fb.js",
-    "static/js/2.5cd961f4.chunk.js",
-    "static/css/main.aac86d1a.chunk.css",
-    "static/js/main.e111e7dd.chunk.js"
+    "static/css/main.4fc49326.css",
+    "static/js/main.04993e04.js"
   ]
 }
