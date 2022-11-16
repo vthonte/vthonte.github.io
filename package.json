@@ -11,7 +11,7 @@
     "react": "^16.13.0",
     "react-bootstrap": "^2.0.3",
     "react-dom": "^16.13.0",
-    "react-scripts": "^3.4.4",
+    "react-scripts": "^5.0.1",
     "styled-components": "^5.0.1"
   },
   "scripts": {
@@ -44,7 +44,7 @@
     "@storybook/addon-links": "^5.3.14",
     "@storybook/addons": "^5.3.14",
     "@storybook/preset-create-react-app": "^2.0.0",
-    "@storybook/react": "^6.4.4",
+    "@storybook/react": "^6.5.13",
     "gh-pages": "^3.2.3"
   }
 }
